@@ -6,7 +6,7 @@ Educational tutorial to learn to create Decoder-only transformer implemented fro
 
 ## Architecture
 
-![Transformer Decoder Architecture](architecture.png)
+![Transformer Decoder Architecture](detailed.png)
 
 **Tokens → Token Embedding + Position Embedding → N × Transformer Block → Final Layer Norm → Output Projection → Logits**
 
